@@ -1,13 +1,9 @@
 == README
 
-# Ruby on Rails Application: Jooga application
+# Jooga application
 
 This is the application to log in Jooga hours.
 
-
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
 Things you may want to cover:
 
