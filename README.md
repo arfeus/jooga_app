@@ -1,6 +1,9 @@
 == README
 
-This is an application to log in Jooga hours.
+# Ruby on Rails Application: Jooga application
+
+This is the application to log in Jooga hours.
+
 
 
 This README would normally document whatever steps are necessary to get the
@@ -25,7 +28,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
